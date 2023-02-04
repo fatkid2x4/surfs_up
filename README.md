@@ -14,7 +14,7 @@ Below you will see the weather in Dec rerorded in our analysis. The Min temp was
 ### Dec Temps Summary
 ![Dec temps.png](https://github.com/fatkid2x4/surfs_up/blob/main/Dec%20temps.png)
 
-###key differences between June and December
+### key differences between June and December
  - December had and average temperature approixmately 4 degrees lower
  - June Max was 2 degrees higher
  - The 50% quartile show 71 for december and 75 for June
