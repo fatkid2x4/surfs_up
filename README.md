@@ -15,8 +15,8 @@ Below you will see the weather in Dec rerorded in our analysis. The Min temp was
 ![Dec temps.png](https://github.com/fatkid2x4/surfs_up/blob/main/Dec%20temps.png)
 
 ###key differences between June and December
-( - )December had and average temperature approixmately 4 degrees lower
-( - )June Max was 2 degrees higher
-( - )The 50% quartile show 71 for december and 75 for June
+ - December had and average temperature approixmately 4 degrees lower
+ - June Max was 2 degrees higher
+ - The 50% quartile show 71 for december and 75 for June
 ## Summary
 I don't think there were any surprises here for anyone that has been to Hawaii.  The temperatues are generally close.  However I would want to know a few more things.  I would want to know the average daylight in June vs December becasue that would affect the amount of time the shop is open.  I would also want to know the months of hurricanes and how it would affect business. Wind speeds would also be important.  Although surfing is generally good year round in Oahu the waves can be extreme in some places and only for experts.
