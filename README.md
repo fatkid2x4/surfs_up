@@ -8,6 +8,6 @@
 
 
 
-![Dec temps.png] (https://github.com/fatkid2x4/surfs_up/blob/main/Dec%20temps.png)
+![Dec temps.png](https://github.com/fatkid2x4/surfs_up/blob/main/Dec%20temps.png)
 ## Summary
 
